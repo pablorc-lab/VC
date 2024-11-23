@@ -6,7 +6,7 @@ Prácticas de la asignatura Visión por Computador de la Escuela Técnica Superi
 ## Importante
 Para utilizar correctamente las imágenes ubicadas en la carpeta `images`, es fundamental asegurarse de que esta se encuentre en la siguiente ruta dentro de nuestro Google Drive: 
 
-/content/drive/My Drive/images
+`/content/drive/My Drive/`
 
 Esto garantizará que el acceso a los archivos sea correcto y sin errores durante la ejecución del código en Google Colab.
 
