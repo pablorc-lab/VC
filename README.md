@@ -1,5 +1,5 @@
 # Visión por computador
-<<<<<<< HEAD
+
 Prácticas de la asignatura Visión por Computador de la Escuela Técnica Superior de Ingeniería Informática (ETSIIT), perteneciente al grado de Ingeniería Informática, curso 24/25.
 
 ## Importante
@@ -11,7 +11,3 @@ Esto garantizará que el acceso a los archivos sea correcto y sin errores durant
 
 ## Práctica 1: Procesamiento de Imágenes
 La práctica se centra en implementar filtros de convolución para comprender cómo se aplican en imágenes, particularmente en el cálculo de las derivadas, lo que incluye trabajar con gradientes para detectar bordes y transiciones. También se busca utilizar técnicas de filtrado lineal para identificar patrones y elementos clave, demostrando cómo estas técnicas permiten interpretar la estructura y contenido visual de una imagen. Con un enfoque práctico en procesamiento de imágenes, se trabajan transformaciones matemáticas y análisis visual, incluyendo la implementación de filtros básicos como Sobel o Laplaciano para derivadas, la exploración de cómo estos resultados ayudan a identificar características importantes como bordes o texturas, y el uso de convoluciones como base para técnicas más avanzadas de visión por computador.
-=======
-Prácticas de la asignatura "Visión por computador" de Ingenería Informática, ETSIIT 24/25. 
-
->>>>>>> bf7a1d7ac7b7f359822a9c4842505655eb9e23b7
