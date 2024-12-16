@@ -16,19 +16,19 @@ Además, debemos descargar el dataset indicado en `https://www.kaggle.com/compet
 La práctica se centra en implementar filtros de convolución para comprender cómo se aplican en imágenes, particularmente en el cálculo de las derivadas, lo que incluye trabajar con gradientes para detectar bordes y transiciones. También se busca utilizar técnicas de filtrado lineal para identificar patrones y elementos clave, demostrando cómo estas técnicas permiten interpretar la estructura y contenido visual de una imagen. Con un enfoque práctico en procesamiento de imágenes, se trabajan transformaciones matemáticas y análisis visual, incluyendo la implementación de filtros básicos como Sobel o Laplaciano para derivadas, la exploración de cómo estos resultados ayudan a identificar características importantes como bordes o texturas, y el uso de convoluciones como base para técnicas más avanzadas de visión por computador.
 
 ### Detectar bordes
-![Zebra](assets/p1_zebra.png)
-![Zebra magnitud](assets/p1_magnitud.png)
-![Zebra laplaciana](assets/p1_laplacian.png)
+<img src="assets/p1_zebra.png" alt="Zebra" width="250px">
+<img src="assets/p1_magnitud.png" alt="Zebra magnitud" width="250px">
+<img src="assets/p1_laplacian.png" alt="Zebra laplaciana" width="250px">
 
 ### Imagen híbrida
-![Einstein](images/einstein.bmp)
-![Marilyn](images/marilyn.bmp)
-![Zebra laplaciana](assets/p1_hybrid.png)
+<img src="images/einstein.bmp" alt="Einstein" width="250px">
+<img src="images/marilyn.bmp" alt="Marilyn" width="250px">
+<img src="assets/p1_hybrid.png" alt="Zebra laplaciana" width="250px">
 
 ### Unión de imágenes
-![Manzana](assets/p1_manzana.png)
-![Naranja](assets/p1_naranja.png)
-![Zebra laplaciana](assets/p1_reconstruccion.png)
+<img src="assets/p1_manzana.png" alt="Manzana" width="250px">
+<img src="assets/p1_naranja.png" alt="Naranja" width="250px">
+<img src="assets/p1_reconstruccion.png" alt="Zebra laplaciana" width="250px">
 
 ---
 
