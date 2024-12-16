@@ -16,19 +16,19 @@ Además, debemos descargar el dataset indicado en `https://www.kaggle.com/compet
 La práctica se centra en implementar filtros de convolución para comprender cómo se aplican en imágenes, particularmente en el cálculo de las derivadas, lo que incluye trabajar con gradientes para detectar bordes y transiciones. También se busca utilizar técnicas de filtrado lineal para identificar patrones y elementos clave, demostrando cómo estas técnicas permiten interpretar la estructura y contenido visual de una imagen. Con un enfoque práctico en procesamiento de imágenes, se trabajan transformaciones matemáticas y análisis visual, incluyendo la implementación de filtros básicos como Sobel o Laplaciano para derivadas, la exploración de cómo estos resultados ayudan a identificar características importantes como bordes o texturas, y el uso de convoluciones como base para técnicas más avanzadas de visión por computador.
 
 ### Detectar bordes
-![Zebra](imagenes/p1_zebra.png)
-![Zebra magnitud](imagenes/p1_magnitud.png)
-![Zebra laplaciana](imagenes/p1_laplacian.png)
+![Zebra](assets/p1_zebra.png)
+![Zebra magnitud](assets/p1_magnitud.png)
+![Zebra laplaciana](assets/p1_laplacian.png)
 
 ### Imagen híbrida
 ![Einstein](images/einstein.bmp)
 ![Marilyn](images/marilyn.bmp)
-![Zebra laplaciana](imagenes/p1_hybrid.png)
+![Zebra laplaciana](assets/p1_hybrid.png)
 
 ### Unión de imágenes
-![Manzana](imagenes/p1_manzana.png)
-![Naranja](imagenes/p1_naranja.png)
-![Zebra laplaciana](imagenes/p1_reconstruccion.png)
+![Manzana](assets/p1_manzana.png)
+![Naranja](assets/p1_naranja.png)
+![Zebra laplaciana](assets/p1_reconstruccion.png)
 
 ---
 
