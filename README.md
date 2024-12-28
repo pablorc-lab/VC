@@ -44,10 +44,10 @@ Además, en el ejercicio 2 se realiza el emparejamiento de keypoints entre dos i
 ### Detectar bordes en una imágen
 <img src="assets/p3_harris.png" alt="Harris" width="450px">
 
-### Imagen híbrida
+### Encontrar emparejamientos de imágenes
 <img src="assets/p3_sift1.png" alt="sift1" width="300px"> <img src="assets/p3_sift2.png" alt="sift2" width="300px">
 
-<img src="assets/p3_matches.png" alt="matches" width="450px">
+<img src="assets/p3_matches.png" alt="matches" width="600px">
 
 ### Crear un panorama dada imágenes con distintas perspectivas
-<img src="assets/p3_mosaico.png" alt="mosaico" width="400px">
+<img src="assets/p3_mosaico.png" alt="mosaico" width="800px">
