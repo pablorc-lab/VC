@@ -1,5 +1,7 @@
 # Visión por computador
 
+<img src="assets/numpy.png" width="50px"><img src="assets/scikit.png" width="50px"><img src="assets/opencv.png" width="50px"><img src="assets/pytorch.svg" width="50px"> 
+
 Prácticas de la asignatura Visión por Computador de la Escuela Técnica Superior de Ingeniería Informática (ETSIIT), perteneciente al grado de Ingeniería Informática, curso 24/25.
  
 
