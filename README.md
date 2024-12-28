@@ -41,10 +41,10 @@ La práctica consiste en implementar un detector de esquinas Harris para identif
 
 Además, en el ejercicio 2 se realiza el emparejamiento de keypoints entre dos imágenes utilizando descriptores SIFT, HOG y LBP. Finalmente, en el ejercicio 3, se lleva a cabo la creación de un panorama o mosaico mediante la estimación de homografías entre las imágenes emparejadas, utilizando RANSAC para una estimación robusta y transformando las imágenes a sus posiciones correctas en un lienzo.
 
-### Detectar bordes en una imágen
+### Detectar esquinas en una imágen
 <img src="assets/p3_harris.png" alt="Harris" width="450px">
 
-### Encontrar emparejamientos de imágenes
+### Encontrar emparejamientos en imágenes
 <img src="assets/p3_sift1.png" alt="sift1" width="300px"> <img src="assets/p3_sift2.png" alt="sift2" width="300px">
 
 <img src="assets/p3_matches.png" alt="matches" width="600px">
