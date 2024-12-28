@@ -35,6 +35,17 @@ La práctica se centra en implementar filtros de convolución para comprender c�
 ## Práctica 2: Redes Neuronales Convolucionales y Explicabilidad
 Esta práctica se enfoca en el desarrollo y mejora de modelos de redes neuronales convolucionales (CNN) para tareas de clasificación y regresión, utilizando el conjunto de datos CIFAR100 y el SPR X-Ray Age Prediction Challenge, junto a la biblioteca de **fastai** o **pythorch**. El objetivo principal es entrenar y optimizar redes profundas mediante técnicas como la creación de modelos desde cero y la mejora de arquitecturas preexistentes, experimentando con diferentes configuraciones de capas, funciones de activación y técnicas de regularización. También se trabaja con **transfer learning** y **fine-tuning** usando modelos preentrenados como **ResNet50**, adaptándolos para nuevas tareas de predicción. Finalmente, se incorpora el concepto de **IA explicable** al aplicar Grad-CAM para visualizar y comprender las decisiones tomadas por los modelos, ayudando a interpretar qué áreas de una imagen influyen en las predicciones, lo cual es esencial para mejorar la transparencia y confiabilidad de los modelos de visión por computadora.
 
+### Crear y mejorar  un modelo de clasificación
+<img src="assets/p2_ej21.png" alt="ej21" width="450px">
+<img src="assets/p2_ej22.png" alt="ej22" width="450px">
+
+### Entrenar un modelo de regresión con pesos preentrenados cambiando su cabecera
+<img src="assets/p2_ej31.png" alt="ej31" width="450px">
+<img src="assets/p2_ej32.png" alt="ej32" width="450px">
+
+### Intrepretar las decisiones de una red neuronal
+<img src="assets/p2_ej4.png" alt="ej4" width="450px">
+
 ---
 ## Práctica 3 : Extracción (y Emparejamiento) de Características y Registrado de Imágenes
 La práctica consiste en implementar un detector de esquinas Harris para identificar puntos de interés en una imagen. Se deben calcular las derivadas de la imagen, obtener los términos de la matriz de segundo momento, y luego calcular el valor de Harris para cada píxel. Tras aplicar la supresión de no máximos y establecer un umbral adecuado, se seleccionan los puntos de interés. Para cada uno, se calcula la orientación principal y se genera una lista de keypoints con las coordenadas y características como el tamaño y la orientación. El resultado final incluye la visualización de los puntos detectados y el mapa de respuestas de Harris.
