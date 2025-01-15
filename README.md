@@ -15,6 +15,7 @@ Prácticas de la asignatura Visión por Computador de la Escuela Técnica Superi
 > 
 > Además, debemos descargar el dataset indicado en `https://www.kaggle.com/competitions/spr-x-ray-age/data` y almacenarlo en nuestro `/content/drive/My Drive/Colab Notebooks` 
 
+
 <br>
 
 ## Práctica 1: Procesamiento de Imágenes
@@ -67,3 +68,24 @@ Además, en el ejercicio 2 se realiza el emparejamiento de keypoints entre dos i
 
 ### Crear un panorama dada imágenes con distintas perspectivas
 <img src="assets/p3_mosaico.png" alt="mosaico" width="800px">
+
+---
+## Proyecto Final : Segmentación de Áreas Afectadas en Hojas de Plantas para la Detección de Enfermedades
+
+> [!WARNING]
+> Para poder ejecutar correctamente el proyecto final, debemos descargarnos el dataset indicado en `https://www.kaggle.com/datasets/fakhrealam9537/leaf-disease-segmentation-dataset`.
+>
+> Luego deberimos ubicarlo dentro de nuestro drive, en la siguiente ruta:
+>
+> ``/content/drive/My Drive/leaf_segmentation`
+>
+
+Este proyecto busca desarrollar un modelo que pueda detectar y segmentar automáticamente las áreas afectadas en hojas de plantas utilizando imágenes de alta resolución y sus máscaras. El modelo permitirá visualizar las zonas afectadas en cada hoja y calcular el porcentaje de área infectada, ofreciendo una herramienta de diagnóstico visual para el manejo agrícola.
+
+### Preprocesar las hojas y sus máscaras
+<img src="assets/proyecto_preprocesamiento.png" alt="Preprocesar" width="450px">
+
+### Resultados obtenidos
+<img src="assets/proyecto_tabla.PNG" alt="tabla" width="450px"> 
+
+<img src="assets/proyecto_resultados.png" alt="resultados" width="450px"> 
