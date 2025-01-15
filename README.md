@@ -83,9 +83,9 @@ Además, en el ejercicio 2 se realiza el emparejamiento de keypoints entre dos i
 Este proyecto busca desarrollar un modelo que pueda detectar y segmentar automáticamente las áreas afectadas en hojas de plantas utilizando imágenes de alta resolución y sus máscaras. El modelo permitirá visualizar las zonas afectadas en cada hoja y calcular el porcentaje de área infectada, ofreciendo una herramienta de diagnóstico visual para el manejo agrícola.
 
 ### Preprocesar las hojas y sus máscaras
-<img src="assets/proyecto_preprocesamiento.png" alt="Preprocesar" width="450px">
+<img src="assets/proyecto_preprocesamiento.png" alt="Preprocesar" width="550px">
 
 ### Resultados obtenidos
-<img src="assets/proyecto_tabla.PNG" alt="tabla" width="450px"> 
+<img src="assets/proyecto_tabla.PNG" alt="tabla" width="550px"> 
 
 <img src="assets/proyecto_resultados.png" alt="resultados" width="450px"> 
