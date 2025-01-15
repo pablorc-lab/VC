@@ -77,7 +77,7 @@ Además, en el ejercicio 2 se realiza el emparejamiento de keypoints entre dos i
 >
 > Luego deberimos ubicarlo dentro de nuestro drive, en la siguiente ruta:
 >
-> ``/content/drive/My Drive/leaf_segmentation`
+> `/content/drive/My Drive/leaf_segmentation`
 >
 
 Este proyecto busca desarrollar un modelo que pueda detectar y segmentar automáticamente las áreas afectadas en hojas de plantas utilizando imágenes de alta resolución y sus máscaras. El modelo permitirá visualizar las zonas afectadas en cada hoja y calcular el porcentaje de área infectada, ofreciendo una herramienta de diagnóstico visual para el manejo agrícola.
